@@ -1,0 +1,34 @@
+LIST OF EXPERIMENTS:
+-------------------
+
+Implement the following techniques/algorithms:
+---------------------------------------------
+1. Caesar Cipher
+2. Hill Cipher
+3. Simple-DES
+4. RSAAlgorithm
+5. Diffie-Hellman Key exchange algorithm
+6. SHA-1
+7. Implement the NIST Digital Signature Algorithm
+
+
+
+Demonstrate following mechanisms using Linux Platform (prefer kali Linux):
+------------------------------------------------------------------------
+8. Exploit SQL injection flaws on a sample website.
+9 Perform web security analysis on a sample website.
+10. Demonstrate how to sniff for router traffic on a sample network.
+11. Demonstrate Secure Sockets Layer (SSL) and Transport Layer Security (TLS)
+12. Assess Wi-Fi network security
+13. Simulate and test, real-world phishing attacks
+14. Demonstrate Intrusion Detection System (IDS)
+15. Verify vulnerabilities, test known exploits, and perform security assessment on a given script file.
+
+Additional Experiments :
+----------------------
+16. Implement Playfair cipher
+17. Implement Simple-AES algorithm
+18. Implement MD5 & SHA-512 algorithms
+19. Explore the functionality of Kerberos package
+20. Implement the dual signature concept in secure electronic transaction
+21. Explore the features of Security-Enhanced Linux (SELinux)
